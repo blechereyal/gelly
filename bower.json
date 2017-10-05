@@ -1,7 +1,7 @@
 {
   "name": "gelly",
   "description": "ES6 Universal Library Starter",
-  "main": "./index.js",
+  "main": "./dist/library.web.js",
   "authors": [
     "Eyal"
   ],
